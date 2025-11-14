@@ -30,6 +30,28 @@
     </itunes:owner>
     <itunes:image href="https://yt3.googleusercontent.com/ofPkZWXdG8tJZjH5WtgchPIONyz1Sv5IRQbVYRHBGBAV2zq1GWQFsQ8EQSvme8ocda4aN_o-gQ=s1024-b50-c-k-c0x003A08b9-no-rj"/>
 <item>
+      <title><![CDATA[11.14]11：42分，震碎的高雄]]></title>
+      <itunes:title><![CDATA[11.14]11：42分，震碎的高雄]]></itunes:title>
+      <itunes:author><![CDATA[異色檔案]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[https://www.youtube.com/watch?v=DHohz9QLmdg
+#異色檔案#故弄玄虛#DK
+▶影片發布日期：2025年11 月14 日]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[https://www.youtube.com/watch?v=DHohz9QLmdg
+#異色檔案#故弄玄虛#DK
+▶影片發布日期：2025年11 月14 日]]>
+      </description>
+      <content:encoded><![CDATA[<pre>https://www.youtube.com/watch?v=DHohz9QLmdg
+#異色檔案#故弄玄虛#DK
+▶影片發布日期：2025年11 月14 日</pre>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/DHohz9QLmdg/hqdefault.jpg"/>
+      <enclosure url="https://democwise2016.github.io/action-UT-Podcast-Weekly-202510/mystery2018-www.youtube.com-b9f6a24652/20251114-DHohz9QLmdg.mp3" type="audio/mpeg" length="789" />
+      <itunes:duration>789</itunes:duration>
+      <guid isPermaLink="false">https://democwise2016.github.io/action-UT-Podcast-Weekly-202510/mystery2018-www.youtube.com-b9f6a24652/20251114-DHohz9QLmdg.mp3</guid>
+      <pubDate>2025-11-14T11:00:23.000Z</pubDate>
+    </item><item>
       <title><![CDATA[10.17]壽司郎，到底做錯了什麼？]]></title>
       <itunes:title><![CDATA[10.17]壽司郎，到底做錯了什麼？]]></itunes:title>
       <itunes:author><![CDATA[異色檔案]]></itunes:author>
@@ -251,24 +273,5 @@ ______________________________________________________________
       <itunes:duration>957</itunes:duration>
       <guid isPermaLink="false">https://democwise2016.github.io/action-UT-Podcast-Weekly-202510/mystery2018-www.youtube.com-b9f6a24652/20250725-TA8CMOHc-X0.mp3</guid>
       <pubDate>2025-07-25T10:00:46.000Z</pubDate>
-    </item><item>
-      <title><![CDATA[7.17]台灣不可能發生了這種事！台師大吸血事件始末]]></title>
-      <itunes:title><![CDATA[7.17]台灣不可能發生了這種事！台師大吸血事件始末]]></itunes:title>
-      <itunes:author><![CDATA[異色檔案]]></itunes:author>
-      <itunes:summary>
-        <![CDATA[https://www.youtube.com/watch?v=Ap2e_Obr4C4
-▶影片發布日期：2025年 7月 17日]]>
-      </itunes:summary>
-      <description>
-        <![CDATA[https://www.youtube.com/watch?v=Ap2e_Obr4C4
-▶影片發布日期：2025年 7月 17日]]>
-      </description>
-      <content:encoded><![CDATA[<pre>https://www.youtube.com/watch?v=Ap2e_Obr4C4
-▶影片發布日期：2025年 7月 17日</pre>]]></content:encoded>
-      <itunes:image href="https://i.ytimg.com/vi/Ap2e_Obr4C4/hqdefault.jpg"/>
-      <enclosure url="https://democwise2016.github.io/action-UT-Podcast-Weekly-202510/mystery2018-www.youtube.com-b9f6a24652/20250717-Ap2e_Obr4C4.mp3" type="audio/mpeg" length="628" />
-      <itunes:duration>628</itunes:duration>
-      <guid isPermaLink="false">https://democwise2016.github.io/action-UT-Podcast-Weekly-202510/mystery2018-www.youtube.com-b9f6a24652/20250717-Ap2e_Obr4C4.mp3</guid>
-      <pubDate>2025-07-17T11:45:01.000Z</pubDate>
     </item></channel>
 </rss>
