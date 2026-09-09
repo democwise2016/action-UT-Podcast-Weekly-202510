@@ -1,0 +1,33 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
+  <channel>
+    <title><![CDATA[瑩真律師 [UT]]]></title>
+    <link>https://www.youtube.com/channel/UCLzWMcpNlhHo0c0yOyWksvQ</link>
+    <image>
+      <url>https://yt3.googleusercontent.com/ytc/AIdro_kmr3in2YWb-v2fLTAONfHZU63y4gGvA9RXdSddt5xuZPQ=s1024-b50-c-k-c0x003A08b9-no-rj</url>
+      <title>瑩真律師 [UT]</title>
+      <link>https://www.youtube.com/channel/UCLzWMcpNlhHo0c0yOyWksvQ</link>
+    </image>
+    <language>en-us</language>
+    <atom:link href="https://www.youtube.com/feeds/videos.xml?channel_id=UCLzWMcpNlhHo0c0yOyWksvQ" rel="self" type="application/rss+xml"/>
+    <copyright><![CDATA[瑩真律師 [UT]]]></copyright>
+    <itunes:author><![CDATA[瑩真律師 [UT]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[
+      <a href="https://www.youtube.com/channel/UCLzWMcpNlhHo0c0yOyWksvQ" target="_blank">https://www.youtube.com/channel/UCLzWMcpNlhHo0c0yOyWksvQ</a>LINK<br />
+<br />
+<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCLzWMcpNlhHo0c0yOyWksvQ" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UCLzWMcpNlhHo0c0yOyWksvQ</a>
+      ]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[
+      <a href="https://www.youtube.com/channel/UCLzWMcpNlhHo0c0yOyWksvQ" target="_blank">https://www.youtube.com/channel/UCLzWMcpNlhHo0c0yOyWksvQ</a>LINK<br />
+<br />
+<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCLzWMcpNlhHo0c0yOyWksvQ" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UCLzWMcpNlhHo0c0yOyWksvQ</a>
+      ]]>
+    </description>
+    <itunes:owner>
+      <itunes:name><![CDATA[瑩真律師 [UT]]]></itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://yt3.googleusercontent.com/ytc/AIdro_kmr3in2YWb-v2fLTAONfHZU63y4gGvA9RXdSddt5xuZPQ=s1024-b50-c-k-c0x003A08b9-no-rj"/>
+</channel>
+</rss>
